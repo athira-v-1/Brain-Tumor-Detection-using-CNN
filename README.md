@@ -72,7 +72,3 @@ This project shows how deep learning can be used for medical image analysis.
 - Build web app using Flask / Streamlit
 - Deploy model
 
-
-
-## 👨‍💻 Author
-Your
