@@ -75,4 +75,4 @@ This project shows how deep learning can be used for medical image analysis.
 
 
 ## 👨‍💻 Author
-Your Name
+Your
