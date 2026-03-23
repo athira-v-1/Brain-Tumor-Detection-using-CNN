@@ -28,7 +28,7 @@ This project demonstrates the use of Deep Learning in medical image classificati
 
 ## 📂 Dataset
 The dataset contains brain MRI images divided into two classes:
-- Normal
+- Healthy
 - Tumor
 
 Images are loaded using `flow_from_directory` and preprocessed using `ImageDataGenerator`.
